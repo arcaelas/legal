@@ -80,7 +80,7 @@ Si actualizamos esta política, publicaremos la nueva versión en esta misma URL
 
 ## Contacto
 
-Para cualquier consulta sobre esta política: [arenas782@gmail.com](mailto:arenas782@gmail.com).
+Para cualquier consulta sobre esta política: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
 
 ---
 
@@ -160,4 +160,4 @@ If we update this policy, we'll publish the new version at this same URL and upd
 
 ## Contact
 
-For any question about this policy: [arenas782@gmail.com](mailto:arenas782@gmail.com).
+For any question about this policy: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).

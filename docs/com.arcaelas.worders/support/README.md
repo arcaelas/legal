@@ -6,7 +6,7 @@ title: Soporte — Palabreo
 
 # Soporte — Palabreo
 
-¿Necesitas ayuda con Palabreo? Escríbenos a [arenas782@gmail.com](mailto:arenas782@gmail.com). Cuéntanos qué ocurrió, el modelo de tu teléfono y la versión de su sistema, y te respondemos por correo.
+¿Necesitas ayuda con Palabreo? Escríbenos a [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com). Cuéntanos qué ocurrió, el modelo de tu teléfono y la versión de su sistema, y te respondemos por correo.
 
 ## Preguntas frecuentes
 
@@ -53,13 +53,13 @@ Borra los datos de la app desde los ajustes del sistema o desinstálala. Más de
 
 ## Contacto
 
-Para cualquier otra consulta: [arenas782@gmail.com](mailto:arenas782@gmail.com).
+Para cualquier otra consulta: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
 
 ---
 
 # Support — Palabreo
 
-Need help with Palabreo? Write to [arenas782@gmail.com](mailto:arenas782@gmail.com). Tell us what happened, your phone model and its system version, and we will answer by email.
+Need help with Palabreo? Write to [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com). Tell us what happened, your phone model and its system version, and we will answer by email.
 
 ## Frequently asked questions
 
@@ -106,4 +106,4 @@ Clear the app data from the system settings or uninstall the app. More details i
 
 ## Contact
 
-For any other question: [arenas782@gmail.com](mailto:arenas782@gmail.com).
+For any other question: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
