@@ -6,9 +6,9 @@ title: Política de Privacidad — Palabreo
 
 # Política de Privacidad — Palabreo
 
-Vigente desde el 12 de octubre de 2026.
+Vigente desde el 13 de octubre de 2026.
 
-> **TL;DR:** Palabreo no pide cuenta ni recopila datos personales. Tus partidas, ajustes y estadísticas quedan en tu dispositivo. A internet solo sale la palabra cuyo significado consultas, y el lector de códigos QR usa un componente de Google que envía datos técnicos de diagnóstico.
+> **TL;DR:** Palabreo no pide cuenta ni recopila datos personales. Tus partidas, ajustes y estadísticas quedan en tu dispositivo. A internet solo sale la palabra cuyo significado consultas, y en Android el lector de códigos QR usa un componente de Google que envía datos técnicos de diagnóstico.
 
 ## Quiénes somos
 
@@ -41,12 +41,21 @@ Las partidas en red se juegan entre dispositivos conectados a la misma red wifi.
 
 La cámara se usa solo para escanear el código QR que permite unirse a una partida en red. La imagen se procesa en tu dispositivo: no se toman, guardan ni envían fotos. Su uso es opcional, porque también puedes escribir el código a mano.
 
-El lector usa ML Kit, un componente de Google. Según [la información que publica Google](https://developers.google.com/ml-kit/android-data-disclosure), ML Kit envía a sus servidores datos técnicos para diagnóstico y estadísticas de uso: el fabricante, el modelo y la versión del sistema del dispositivo, el nombre y la versión de la aplicación, un identificador de instalación que no está pensado para identificar a una persona ni a un dispositivo, y métricas de rendimiento y códigos de error. Esos datos viajan cifrados y Google declara que no los transfiere a terceros.
+En Android, el lector usa ML Kit, un componente de Google. Según [la información que publica Google](https://developers.google.com/ml-kit/android-data-disclosure), ML Kit envía a sus servidores datos técnicos para diagnóstico y estadísticas de uso: el fabricante, el modelo y la versión del sistema del dispositivo, el nombre y la versión de la aplicación, un identificador de instalación que no está pensado para identificar a una persona ni a un dispositivo, y métricas de rendimiento y códigos de error. Esos datos viajan cifrados y Google declara que no los transfiere a terceros.
+
+En iPhone, el lector usa Vision, un componente de Apple incluido en el sistema, que procesa la imagen en el dispositivo y no envía datos.
 
 ## Permisos del sistema
 
+En Android:
+
 - Internet: consultar los significados y conectar con otros dispositivos en las partidas en red.
 - Estado de la red y del wifi: encontrar y conectar los dispositivos de una partida en la red local.
+- Cámara (opcional): escanear el código QR de una partida en red.
+
+En iPhone:
+
+- Red local: encontrar y conectar los dispositivos de una partida en red. Sin él se puede jugar contra la computadora, pero no en red.
 - Cámara (opcional): escanear el código QR de una partida en red.
 
 ## Compras
@@ -55,7 +64,7 @@ El juego no tiene compras con dinero real. Los puntos de la cartera son virtuale
 
 ## Compartición con terceros
 
-No vendemos ni compartimos datos. Los únicos terceros que reciben información son los ya descritos: la Fundación Wikimedia, cuando consultas un significado, y Google, por el componente del lector de códigos QR.
+No vendemos ni compartimos datos. Los únicos terceros que reciben información son los ya descritos: la Fundación Wikimedia, cuando consultas un significado, y Google, por el componente del lector de códigos QR en Android.
 
 ## Retención y eliminación
 
@@ -77,9 +86,9 @@ Para cualquier consulta sobre esta política: [arenas782@gmail.com](mailto:arena
 
 # Privacy Policy — Palabreo
 
-Effective October 12, 2026.
+Effective October 13, 2026.
 
-> **TL;DR:** Palabreo requires no account and collects no personal data. Your games, settings and statistics stay on your device. The only thing sent over the internet is the word whose meaning you look up, and the QR code reader uses a Google component that sends technical diagnostic data.
+> **TL;DR:** Palabreo requires no account and collects no personal data. Your games, settings and statistics stay on your device. The only thing sent over the internet is the word whose meaning you look up, and on Android the QR code reader uses a Google component that sends technical diagnostic data.
 
 ## Who we are
 
@@ -112,12 +121,21 @@ Network games are played between devices connected to the same Wi-Fi network. Th
 
 The camera is used only to scan the QR code that lets you join a network game. The image is processed on your device: no photos are taken, stored or sent. Using it is optional, because you can also type the code by hand.
 
-The reader uses ML Kit, a Google component. According to [the information Google publishes](https://developers.google.com/ml-kit/android-data-disclosure), ML Kit sends technical data to its servers for diagnostics and usage analytics: the manufacturer, model and system version of the device, the name and version of the app, an installation identifier that is not intended to identify a person or a device, and performance metrics and error codes. That data is encrypted in transit and Google states that it does not transfer it to third parties.
+On Android, the reader uses ML Kit, a Google component. According to [the information Google publishes](https://developers.google.com/ml-kit/android-data-disclosure), ML Kit sends technical data to its servers for diagnostics and usage analytics: the manufacturer, model and system version of the device, the name and version of the app, an installation identifier that is not intended to identify a person or a device, and performance metrics and error codes. That data is encrypted in transit and Google states that it does not transfer it to third parties.
+
+On iPhone, the reader uses Vision, an Apple component included in the system, which processes the image on the device and sends no data.
 
 ## System permissions
 
+On Android:
+
 - Internet: look up meanings and connect to other devices in network games.
 - Network and Wi-Fi state: find and connect the devices of a game on the local network.
+- Camera (optional): scan the QR code of a network game.
+
+On iPhone:
+
+- Local network: find and connect the devices of a network game. Without it you can play against the computer, but not over the network.
 - Camera (optional): scan the QR code of a network game.
 
 ## Purchases
@@ -126,7 +144,7 @@ The game has no real-money purchases. The points in the wallet are virtual, earn
 
 ## Sharing with third parties
 
-We do not sell or share data. The only third parties that receive information are the ones described above: the Wikimedia Foundation, when you look up a meaning, and Google, through the QR code reader component.
+We do not sell or share data. The only third parties that receive information are the ones described above: the Wikimedia Foundation, when you look up a meaning, and Google, through the QR code reader component on Android.
 
 ## Retention and deletion
 
