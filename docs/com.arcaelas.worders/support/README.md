@@ -33,7 +33,7 @@ La partida queda en pausa hasta 2 horas y continúa cuando el anfitrión vuelve 
 
 ### No aparece el significado de una palabra
 
-Los significados se consultan en el Wikcionario y requieren conexión a internet. Algunas palabras y sílabas no tienen entrada.
+Los significados se consultan en el Wikcionario y, si no está la palabra, en Wikidata; requieren conexión a internet. Algunas palabras y sílabas no tienen entrada en ninguno de los dos: en ese caso el juego avisa que la palabra no tiene significado en el Wikcionario, pero sigue siendo válida en Palabreo.
 
 ### El juego rechazó una palabra válida o aceptó una que no existe
 
@@ -86,7 +86,7 @@ The game is paused for up to 2 hours and continues when the host opens it again.
 
 ### The meaning of a word does not show
 
-Meanings are looked up in Wiktionary and need an internet connection. Some words and syllables have no entry.
+Meanings are looked up in Wiktionary and, if the word is not there, in Wikidata; they need an internet connection. Some words and syllables have no entry in either: in that case the game says the word has no meaning in Wiktionary, but it is still valid in Palabreo.
 
 ### The game rejected a valid word or accepted one that does not exist
 
