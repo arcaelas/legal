@@ -6,7 +6,7 @@ title: Política de Privacidad — Palabreo
 
 # Política de Privacidad — Palabreo
 
-Vigente desde el 13 de octubre de 2026.
+Vigente desde el 14 de octubre de 2026.
 
 > **TL;DR:** Palabreo no pide cuenta ni recopila datos personales. Tus partidas, ajustes y estadísticas quedan en tu dispositivo. A internet solo sale la palabra cuyo significado consultas, y en Android el lector de códigos QR usa un componente de Google que envía datos técnicos de diagnóstico.
 
@@ -31,7 +31,7 @@ Estos datos viven en el almacenamiento de la aplicación dentro de tu dispositiv
 
 ## Significados de las palabras
 
-Cuando abres el significado de una palabra, el juego lo consulta por internet en el Wikcionario en español (`es.wiktionary.org`), de la Fundación Wikimedia. Se envían la palabra consultada y el nombre de la aplicación. Como en cualquier conexión a internet, el servidor recibe la dirección IP de tu dispositivo; su tratamiento se rige por la [política de privacidad de la Fundación Wikimedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/es). Los textos de los significados provienen del Wikcionario, bajo la licencia CC BY-SA 4.0.
+Cuando abres el significado de una palabra, el juego lo consulta por internet en el Wikcionario en español (`es.wiktionary.org`) y, si el Wikcionario no la tiene, en Wikidata (`www.wikidata.org`); ambos sitios son de la Fundación Wikimedia. Se envían la palabra consultada (en el Wikcionario, también sus formas con tilde y sus formas básicas, como el singular o el infinitivo) y el nombre de la aplicación con su correo de contacto. Como en cualquier conexión a internet, los servidores reciben la dirección IP de tu dispositivo; su tratamiento se rige por la [política de privacidad de la Fundación Wikimedia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/es). Los textos de los significados provienen del Wikcionario, bajo la licencia CC BY-SA 4.0, o de Wikidata, de dominio público (CC0); cada significado indica su fuente.
 
 ## Partidas en red local
 
@@ -86,7 +86,7 @@ Para cualquier consulta sobre esta política: [arcaela.reyes@gmail.com](mailto:a
 
 # Privacy Policy — Palabreo
 
-Effective October 13, 2026.
+Effective October 14, 2026.
 
 > **TL;DR:** Palabreo requires no account and collects no personal data. Your games, settings and statistics stay on your device. The only thing sent over the internet is the word whose meaning you look up, and on Android the QR code reader uses a Google component that sends technical diagnostic data.
 
@@ -111,7 +111,7 @@ This data lives in the app storage on your device.
 
 ## Word meanings
 
-When you open the meaning of a word, the game looks it up over the internet in the Spanish Wiktionary (`es.wiktionary.org`), run by the Wikimedia Foundation. The word you look up and the name of the app are sent. As with any internet connection, the server receives the IP address of your device; its handling is governed by the [Wikimedia Foundation privacy policy](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy). The texts of the meanings come from Wiktionary, under the CC BY-SA 4.0 license.
+When you open the meaning of a word, the game looks it up over the internet in the Spanish Wiktionary (`es.wiktionary.org`) and, if Wiktionary does not have it, in Wikidata (`www.wikidata.org`); both sites are run by the Wikimedia Foundation. The word you look up (on Wiktionary, also its accented forms and its base forms, such as the singular or the infinitive) and the name of the app with its contact email are sent. As with any internet connection, the servers receive the IP address of your device; its handling is governed by the [Wikimedia Foundation privacy policy](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy). The texts of the meanings come from Wiktionary, under the CC BY-SA 4.0 license, or from Wikidata, in the public domain (CC0); each meaning shows its source.
 
 ## Local network games
 
