@@ -19,9 +19,13 @@ En el menú, «Cómo jugar» abre las reglas y un tutorial guiado para tu primer
 - Todos los teléfonos deben estar conectados a la misma red wifi.
 - Únete escaneando el código QR de la sala o escribiendo el código a mano.
 - En iPhone, permite el acceso a la red local: Ajustes > Privacidad y seguridad > Red local > Palabreo.
-- Una VPN activa puede impedir la conexión; desactívala mientras juegas en red.
+- Con algunas VPN encendidas, los teléfonos no pueden encontrarse o conectarse en la red local; el juego te lo avisa en las pantallas de la partida en red.
 
 Un iPhone y un teléfono Android pueden jugar en la misma partida.
+
+### ¿Funciona la partida en red con una VPN encendida?
+
+Depende de la VPN. Muchas VPN llevan por su túnel también el tráfico de la red local, y entonces los teléfonos no pueden encontrarse o conectarse aunque estén en la misma wifi. Por eso, si hay una VPN encendida, el juego muestra un aviso informativo que puedes cerrar; no bloquea nada. En Android, si la VPN permite que las apps la salten, el juego usa la wifi directamente mientras la partida en red está abierta; en iPhone, dirige a la wifi solo las conexiones de la partida. Las VPN que tienen una opción para permitir el acceso a la red local (LAN) suelen funcionar con ella activada.
 
 ### La cámara no lee el código QR
 
@@ -72,9 +76,13 @@ In the menu, «Cómo jugar» opens the rules and a guided tutorial for your firs
 - Every phone must be connected to the same Wi-Fi network.
 - Join by scanning the QR code of the room or by typing the code by hand.
 - On iPhone, allow access to the local network: Settings > Privacy & Security > Local Network > Palabreo.
-- An active VPN can block the connection; turn it off while you play over the network.
+- With some VPNs turned on, phones cannot find or connect to each other on the local network; the game lets you know on the network game screens.
 
 An iPhone and an Android phone can play in the same game.
+
+### Does the network game work with a VPN turned on?
+
+It depends on the VPN. Many VPNs also send local network traffic through their tunnel, and then the phones cannot find or connect to each other even on the same Wi-Fi network. That is why, if a VPN is turned on, the game shows an informational notice that you can close; it does not block anything. On Android, if the VPN lets apps bypass it, the game uses the Wi-Fi network directly while the network game is open; on iPhone, it sends only the game's connections through the Wi-Fi network. VPNs that have an option to allow local network (LAN) access usually work with it turned on.
 
 ### The camera does not read the QR code
 
