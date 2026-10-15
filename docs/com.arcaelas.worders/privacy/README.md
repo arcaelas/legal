@@ -6,7 +6,7 @@ title: Política de Privacidad — Palabreo
 
 # Política de Privacidad — Palabreo
 
-Vigente desde el 14 de octubre de 2026.
+Vigente desde el 15 de octubre de 2026.
 
 > **TL;DR:** Palabreo no pide cuenta ni recopila datos personales. Tus partidas, ajustes y estadísticas quedan en tu dispositivo. A internet solo sale la palabra cuyo significado consultas, y en Android el lector de códigos QR usa un componente de Google que envía datos técnicos de diagnóstico.
 
@@ -35,7 +35,16 @@ Cuando abres el significado de una palabra, el juego lo consulta por internet en
 
 ## Partidas en red local
 
-Las partidas en red se juegan entre dispositivos conectados a la misma red wifi. El nombre de jugador, las jugadas, los puntajes y las reacciones viajan directamente entre esos dispositivos y no pasan por ningún servidor.
+Las partidas en red se juegan entre dispositivos conectados a la misma red wifi. El nombre de jugador, las jugadas, los puntajes y las reacciones viajan directamente entre esos dispositivos y no pasan por ningún servidor. Para encontrar una partida, tu dispositivo pregunta en la red local por el código de la partida y el dispositivo que la abrió responde con su dirección en esa red.
+
+## VPN
+
+Al abrir, buscar o unirte a una partida en red, el juego comprueba si hay una VPN encendida en tu dispositivo, solo para mostrarte un aviso informativo que puedes cerrar: con algunas VPN los dispositivos no pueden encontrarse o conectarse en la red local. El juego no bloquea nada por eso, no guarda ni envía ese dato y no cambia la configuración de tu VPN.
+
+Para que la partida pueda funcionar con una VPN encendida:
+
+- En Android, si la VPN lo permite, mientras hay una partida en red abierta el juego usa la wifi directamente en lugar de la VPN. Durante ese tiempo esto vale para todo el juego, así que las consultas de significados también salen por la wifi y no por la VPN. Al cerrar la partida, el juego vuelve a la conexión normal de tu dispositivo. Si la VPN no lo permite, no se cambia nada.
+- En iPhone, con una VPN encendida, solo las conexiones de la partida en red se dirigen a la wifi; el resto del juego sigue la configuración de tu dispositivo.
 
 ## Cámara y lector de códigos QR
 
@@ -50,12 +59,13 @@ En iPhone, el lector usa Vision, un componente de Apple incluido en el sistema, 
 En Android:
 
 - Internet: consultar los significados y conectar con otros dispositivos en las partidas en red.
-- Estado de la red y del wifi: encontrar y conectar los dispositivos de una partida en la red local.
+- Estado de la red: saber si hay una VPN encendida para mostrar el aviso y, si la VPN lo permite, usar la wifi mientras hay una partida en red abierta.
+- Multidifusión wifi: recibir los mensajes con los que los dispositivos de una partida se encuentran en la red local, solo mientras se abre, se busca o se juega una partida en red.
 - Cámara (opcional): escanear el código QR de una partida en red.
 
 En iPhone:
 
-- Red local: encontrar y conectar los dispositivos de una partida en red. Sin él se puede jugar contra la computadora, pero no en red.
+- Red local: encontrar y conectar los dispositivos de una partida en red. Sin él se puede jugar contra la computadora, pero no en red. Para comprobar este permiso, el juego anuncia y busca en la red local un servicio propio (Bonjour, `_palabreo._tcp`) que no lleva datos personales.
 - Cámara (opcional): escanear el código QR de una partida en red.
 
 ## Compras
@@ -86,7 +96,7 @@ Para cualquier consulta sobre esta política: [arcaela.reyes@gmail.com](mailto:a
 
 # Privacy Policy — Palabreo
 
-Effective October 14, 2026.
+Effective October 15, 2026.
 
 > **TL;DR:** Palabreo requires no account and collects no personal data. Your games, settings and statistics stay on your device. The only thing sent over the internet is the word whose meaning you look up, and on Android the QR code reader uses a Google component that sends technical diagnostic data.
 
@@ -115,7 +125,16 @@ When you open the meaning of a word, the game looks it up over the internet in t
 
 ## Local network games
 
-Network games are played between devices connected to the same Wi-Fi network. The player name, the moves, the scores and the reactions travel directly between those devices and go through no server.
+Network games are played between devices connected to the same Wi-Fi network. The player name, the moves, the scores and the reactions travel directly between those devices and go through no server. To find a game, your device asks the local network for the game code and the device that opened it answers with its address on that network.
+
+## VPN
+
+When you open, look for or join a network game, the game checks whether a VPN is turned on in your device, only to show you an informational notice that you can close: with some VPNs, devices cannot find or connect to each other on the local network. The game does not block anything because of it, does not store or send that information and does not change your VPN settings.
+
+So that the game can work with a VPN turned on:
+
+- On Android, if the VPN allows it, while a network game is open the game uses the Wi-Fi network directly instead of the VPN. During that time this applies to the whole game, so meaning lookups also go out through the Wi-Fi network and not through the VPN. When the game is closed, it goes back to your device's normal connection. If the VPN does not allow it, nothing changes.
+- On iPhone, with a VPN turned on, only the connections of the network game are sent through the Wi-Fi network; the rest of the game follows your device settings.
 
 ## Camera and QR code reader
 
@@ -130,12 +149,13 @@ On iPhone, the reader uses Vision, an Apple component included in the system, wh
 On Android:
 
 - Internet: look up meanings and connect to other devices in network games.
-- Network and Wi-Fi state: find and connect the devices of a game on the local network.
+- Network state: know whether a VPN is turned on to show the notice and, if the VPN allows it, use the Wi-Fi network while a network game is open.
+- Wi-Fi multicast: receive the messages devices use to find each other on the local network, only while a network game is being opened, looked for or played.
 - Camera (optional): scan the QR code of a network game.
 
 On iPhone:
 
-- Local network: find and connect the devices of a network game. Without it you can play against the computer, but not over the network.
+- Local network: find and connect the devices of a network game. Without it you can play against the computer, but not over the network. To check this permission, the game advertises and browses for its own service on the local network (Bonjour, `_palabreo._tcp`), which carries no personal data.
 - Camera (optional): scan the QR code of a network game.
 
 ## Purchases
