@@ -1,57 +1,69 @@
 ---
-title: Política de Privacidad — La arepera: Sabor de la casa
+title: Política de Privacidad — La Arepera
 ---
 
 [← Arcaelas Legal](../../)
 
-# Política de Privacidad — La arepera: Sabor de la casa
+# Política de Privacidad — La Arepera
 
 Vigente desde el 18 de octubre de 2026.
 
-> **TL;DR:** La arepera se juega sin conexión: no pide cuenta, no muestra publicidad, no tiene compras con dinero real y no recopila ni comparte datos personales. Tu progreso y tus ajustes quedan en tu dispositivo, y el juego no se conecta a internet.
+> **TL;DR:** La Arepera no pide cuenta propia ni tiene servidores propios. Tu progreso queda en tu dispositivo. Si inicias sesión en Google Play Juegos o Game Center, tus logros y puntajes se guardan en esos servicios. El juego puede mostrar anuncios de Google AdMob, que usan el identificador de publicidad de tu dispositivo según tu consentimiento, y las compras se hacen por Google Play o el App Store.
 
 ## Quiénes somos
 
-La arepera: Sabor de la casa (paquete `com.arcaelas.arepera`) es un juego móvil desarrollado por Arcaelas. Esta política describe cómo se manejan los datos cuando juegas en tu dispositivo, en Android y en iPhone.
+La Arepera (paquete `com.arcaelas.arepera`) es un juego móvil desarrollado por Arcaelas. Esta política describe cómo se manejan los datos cuando juegas en tu dispositivo.
 
 ## Qué datos recopilamos
 
-Ninguno. No tenemos servidores propios y el juego no nos envía datos ni a nosotros ni a terceros. No requiere registro ni cuenta, no muestra publicidad y no usa herramientas de analítica, de seguimiento ni de informes de errores. Los clientes y los empleados del juego los controla el propio juego en tu dispositivo: no hay otros jugadores, chat ni funciones sociales.
+Nosotros, ninguno. No tenemos servidores propios, no pedimos registro y el juego no nos envía datos. Los únicos terceros que reciben información son Google y Apple, a través de los servicios descritos abajo.
 
 ## Datos que guarda el juego en tu dispositivo
 
-- Tu progreso: el local en el que juegas, tu dinero del juego, los desbloqueos pagados, las mejoras de la pizarra, el paso del tutorial, la posición del arepero y lo que hay apilado en cada estación.
-- Tus ajustes: sonido, música y vibración, y si ya moviste al arepero alguna vez (para ocultar la mano del tutorial).
+- Tu progreso: dinero, nivel y construcciones de cada local, mejoras, empleados contratados y sus niveles.
+- Tus ajustes: sonido, música y vibración.
+- Las compras que ya se entregaron, para no entregarlas dos veces.
+- Los logros y puntajes pendientes de enviar cuando no hay conexión.
 
-Estos datos viven en las preferencias de la aplicación dentro de tu dispositivo y no salen de ahí hacia nosotros.
+Estos datos viven en el almacenamiento de la aplicación dentro de tu dispositivo.
 
-## Copias de seguridad del sistema
+## Google Play Juegos y Game Center
 
-Si tienes activadas las copias de seguridad del sistema, Android (copia de seguridad de Google) o iPhone (iCloud o la copia en tu computador) pueden incluir los datos del juego en la copia de tu dispositivo, para restaurarlos si cambias de teléfono. Esas copias las administran Google o Apple en tu cuenta y según sus propias políticas; nosotros no tenemos acceso a ellas. Puedes desactivarlas desde los ajustes del sistema.
+Si inicias sesión, en Android el juego usa Google Play Juegos y en iPhone Game Center de Apple para guardar tus logros y mostrar tus puntajes en las tablas: arepas vendidas, dinero ganado y nivel más alto. Esos servicios reciben tu identificador de jugador, tu nombre de jugador, tus logros y tus puntajes, y su tratamiento se rige por la [política de privacidad de Google](https://policies.google.com/privacy?hl=es) y la [de Apple](https://www.apple.com/legal/privacy/es/). Puedes jugar sin iniciar sesión.
+
+## Anuncios
+
+El juego puede mostrar anuncios de Google AdMob en algunos momentos. AdMob puede recopilar el identificador de publicidad de tu dispositivo, la dirección IP, datos técnicos del dispositivo y de la aplicación, y la interacción con los anuncios, para mostrar, medir y limitar anuncios y prevenir fraude. En las regiones donde la ley lo exige, el juego te pide tu consentimiento antes de mostrar anuncios personalizados, y puedes cambiar tu elección en Ajustes. En iPhone, el sistema te pregunta si permites el rastreo; si no lo permites, los anuncios no son personalizados. Más información en [cómo usa Google los datos de las apps de sus socios](https://policies.google.com/technologies/partner-sites?hl=es). Si compras «Quitar anuncios», el juego deja de mostrarlos, salvo los anuncios con premio que tú eliges ver.
+
+## Compras dentro del juego
+
+Las compras se hacen con Google Play en Android y con el App Store en iPhone. El pago lo procesan Google o Apple; nosotros no recibimos los datos de tu tarjeta ni de tu cuenta. El juego solo recibe la confirmación de la compra para entregarte lo que compraste. Puedes restaurar tus compras desde Ajustes.
 
 ## Permisos del sistema
 
-La arepera no solicita ningún permiso: ni internet, ni almacenamiento, ni cámara, ni micrófono, ni ubicación, ni contactos, ni notificaciones. En Android, el juego publicado no declara el permiso de internet, así que no puede conectarse a la red. La vibración leve que puedes apagar en los ajustes usa la respuesta háptica del sistema y no requiere permiso. El juego no envía notificaciones.
+En Android:
 
-## Compras y publicidad
+- Internet y estado de la red: conectar con Google Play Juegos, AdMob y Google Play.
+- Identificador de publicidad (AD_ID): lo usa AdMob, según tu consentimiento.
+- Facturación de Google Play (BILLING): hacer compras dentro del juego.
+- Servicios de publicidad de Android (ACCESS_ADSERVICES_AD_ID, ACCESS_ADSERVICES_ATTRIBUTION y ACCESS_ADSERVICES_TOPICS): los usa AdMob, en los teléfonos que tienen Privacy Sandbox, para medir y elegir anuncios según tu consentimiento.
+- Mantener activo el dispositivo y servicio en primer plano (WAKE_LOCK y FOREGROUND_SERVICE): los agregan los componentes de Google para terminar tareas en curso, como la carga de un anuncio; el juego no los usa por sí mismo.
 
-El juego es gratuito, no tiene compras dentro de la aplicación y no muestra publicidad. No usa el identificador de publicidad del dispositivo. El dinero del juego se gana vendiendo arepas, solo sirve dentro del juego, no se puede comprar con dinero real y no tiene valor en dinero.
+En iPhone:
+
+- Rastreo (App Tracking Transparency): el sistema te pregunta si permites que los anuncios usen tu identificador de publicidad. Es opcional.
 
 ## Compartición con terceros
 
-No vendemos ni compartimos datos, porque no recopilamos ninguno. El juego no incluye componentes de terceros que envíen datos. La tienda desde la que lo descargas (Google Play o el App Store) trata los datos de tu cuenta de la tienda según su propia política de privacidad.
-
-## Seguridad
-
-Como los datos del juego no salen de tu dispositivo, no viajan por ninguna red y quedan protegidos por los mecanismos de seguridad del sistema operativo.
+No vendemos ni compartimos datos. Los únicos terceros que reciben información son Google (Google Play Juegos, AdMob y Google Play) y Apple (Game Center y App Store), como se describe arriba.
 
 ## Retención y eliminación
 
-Mientras el juego esté instalado, tus datos quedan en el dispositivo. Para borrar tu progreso, usa «Reiniciar progreso» en los ajustes del juego, borra los datos de la aplicación desde los ajustes del sistema o desinstálala. Como no guardamos nada tuyo, no tenemos datos que borrar en nuestro lado ni podemos recuperar tu progreso.
+Mientras el juego esté instalado, tu progreso queda en el dispositivo. Para borrarlo, borra los datos de la app desde los ajustes del sistema o desinstálala. Para borrar tus logros y puntajes, usa las opciones de Google Play Juegos o de Game Center.
 
 ## Menores de edad
 
-La arepera no recopila datos personales de nadie, de ninguna edad, no muestra publicidad y no ofrece compras.
+El juego es apto para todas las edades, pero no está dirigido a menores de 13 años. No recopilamos datos personales de nadie.
 
 ## Cambios a esta política
 
@@ -67,54 +79,66 @@ Para cualquier pregunta sobre esta política: [arcaela.reyes@gmail.com](mailto:a
 
 ---
 
-# Privacy Policy — La arepera: Sabor de la casa
+# Privacy Policy — La Arepera
 
 Effective October 18, 2026.
 
-> **TL;DR:** La arepera is played offline: it requires no account, shows no ads, has no real-money purchases and collects or shares no personal data. Your progress and your settings stay on your device, and the game does not connect to the internet.
+> **TL;DR:** La Arepera has no account of its own and no servers of its own. Your progress stays on your device. If you sign in to Google Play Games or Game Center, your achievements and scores are stored in those services. The game may show Google AdMob ads, which use your device's advertising ID according to your consent, and purchases are made through Google Play or the App Store.
 
 ## Who we are
 
-La arepera: Sabor de la casa (package `com.arcaelas.arepera`) is a mobile game developed by Arcaelas. This policy describes how data is handled when you play on your device, on Android and on iPhone.
+La Arepera (package `com.arcaelas.arepera`) is a mobile game developed by Arcaelas. This policy describes how data is handled when you play on your device.
 
 ## What data we collect
 
-None. We have no servers of our own and the game sends no data to us or to third parties. It requires no registration or account, shows no ads and uses no analytics, tracking or crash reporting tools. The game's customers and employees are controlled by the game itself on your device: there are no other players, no chat and no social features.
+We collect none. We have no servers of our own, we don't ask you to register and the game sends no data to us. The only third parties that receive information are Google and Apple, through the services described below.
 
 ## Data the game stores on your device
 
-- Your progress: the shop you are playing, your in-game money, the unlocks you paid for, the chalkboard upgrades, the tutorial step, the arepero's position and what is stacked at each station.
-- Your settings: sound, music and vibration, and whether you have already moved the arepero (to hide the tutorial hand).
+- Your progress: money, level and buildings of each shop, upgrades, hired employees and their levels.
+- Your settings: sound, music and vibration.
+- Purchases already delivered, so they are not delivered twice.
+- Achievements and scores waiting to be sent when there is no connection.
 
-This data lives in the app's preferences on your device and does not leave it toward us.
+This data lives in the app's storage on your device.
 
-## System backups
+## Google Play Games and Game Center
 
-If system backups are turned on, Android (Google backup) or iPhone (iCloud or the backup on your computer) may include the game's data in your device backup, to restore it if you change phones. Those backups are managed by Google or Apple in your account and under their own policies; we have no access to them. You can turn them off in the system settings.
+If you sign in, the game uses Google Play Games on Android and Apple Game Center on iPhone to store your achievements and show your scores on the leaderboards: arepas sold, money earned and highest level. Those services receive your player ID, player name, achievements and scores, under [Google's privacy policy](https://policies.google.com/privacy) and [Apple's](https://www.apple.com/legal/privacy/). You can play without signing in.
+
+## Ads
+
+The game may show Google AdMob ads at some moments. AdMob may collect your device's advertising ID, IP address, technical data about the device and the app, and ad interactions, to show, measure and cap ads and to prevent fraud. Where the law requires it, the game asks for your consent before showing personalized ads, and you can change your choice in Settings. On iPhone, the system asks whether you allow tracking; if you don't, ads are not personalized. More information on [how Google uses data from its partners' apps](https://policies.google.com/technologies/partner-sites). If you buy "Remove ads", the game stops showing them, except rewarded ads you choose to watch.
+
+## In-app purchases
+
+Purchases are made with Google Play on Android and the App Store on iPhone. Payment is processed by Google or Apple; we never receive your card or account details. The game only receives the purchase confirmation to deliver what you bought. You can restore your purchases from Settings.
 
 ## System permissions
 
-La arepera requests no permissions: no internet, storage, camera, microphone, location, contacts or notifications. On Android, the published game does not declare the internet permission, so it cannot connect to the network. The light vibration, which you can turn off in the settings, uses the system's haptic feedback and requires no permission. The game sends no notifications.
+On Android:
 
-## Purchases and ads
+- Internet and network state: connect to Google Play Games, AdMob and Google Play.
+- Advertising ID (AD_ID): used by AdMob, according to your consent.
+- Google Play Billing (BILLING): make in-app purchases.
+- Android ad services (ACCESS_ADSERVICES_AD_ID, ACCESS_ADSERVICES_ATTRIBUTION and ACCESS_ADSERVICES_TOPICS): used by AdMob, on phones with Privacy Sandbox, to measure and select ads according to your consent.
+- Keep the device awake and foreground service (WAKE_LOCK and FOREGROUND_SERVICE): added by Google components to finish ongoing tasks, such as loading an ad; the game does not use them on its own.
 
-The game is free, has no in-app purchases and shows no ads. It does not use the device's advertising identifier. In-game money is earned by selling arepas, is only usable inside the game, cannot be bought with real money and has no monetary value.
+On iPhone:
+
+- Tracking (App Tracking Transparency): the system asks whether you allow ads to use your advertising identifier. It is optional.
 
 ## Sharing with third parties
 
-We do not sell or share data, because we collect none. The game includes no third-party components that send data. The store you download it from (Google Play or the App Store) handles your store account data under its own privacy policy.
-
-## Security
-
-Since the game's data never leaves your device, it does not travel over any network and is protected by the security mechanisms of the operating system.
+We do not sell or share data. The only third parties that receive information are Google (Google Play Games, AdMob and Google Play) and Apple (Game Center and App Store), as described above.
 
 ## Retention and deletion
 
-While the game is installed, your data stays on the device. To delete your progress, use "Reiniciar progreso" in the game's settings, clear the app data from the system settings or uninstall it. Since we keep nothing of yours, we have no data to delete on our side and we cannot recover your progress.
+While the game is installed, your progress stays on the device. To delete it, clear the app data from the system settings or uninstall the app. To delete your achievements and scores, use the options of Google Play Games or Game Center.
 
 ## Children's privacy
 
-La arepera collects no personal data from anyone, of any age, shows no ads and offers no purchases.
+The game is suitable for all ages but is not directed to children under 13. We collect no personal data from anyone.
 
 ## Changes to this policy
 
