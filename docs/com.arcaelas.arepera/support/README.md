@@ -30,13 +30,9 @@ Los clientes pagan más cuando los atiendes rápido y cuando el menú es variado
 
 Sí, automáticamente en tu teléfono. Si borras los datos de la app o la desinstalas, el progreso se pierde.
 
-### Hice una compra y no la recibí
+### ¿El juego tiene compras o anuncios?
 
-Abre Ajustes y toca «Restaurar compras». Si sigue sin aparecer, escríbenos con la fecha de la compra y el número de pedido de Google Play o del App Store.
-
-### ¿Cómo quito los anuncios?
-
-Compra «Quitar anuncios» en la Bodega. Los anuncios con premio siguen disponibles solo si tú eliges verlos.
+No. La Arepera es gratuita: no vende nada dentro de la app y no muestra anuncios. Los billetes se ganan jugando.
 
 ### No veo mis logros
 
@@ -70,13 +66,9 @@ Customers pay more when you serve them fast and the menu is varied. If you alway
 
 Yes, automatically on your phone. If you clear the app data or uninstall it, the progress is lost.
 
-### I made a purchase and didn't get it
+### Does the game have purchases or ads?
 
-Open Settings and tap "Restore purchases". If it still doesn't appear, write to us with the purchase date and the Google Play or App Store order number.
-
-### How do I remove ads?
-
-Buy "Remove ads" in the Shop. Rewarded ads remain available only if you choose to watch them.
+No. La Arepera is free: it sells nothing inside the app and shows no ads. Cash is earned by playing.
 
 ### I can't see my achievements
 
