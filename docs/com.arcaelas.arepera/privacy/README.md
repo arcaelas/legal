@@ -6,7 +6,7 @@ title: Política de Privacidad — La Arepera
 
 # Política de Privacidad — La Arepera
 
-Vigente desde el 19 de octubre de 2026.
+Vigente desde el 22 de octubre de 2026.
 
 > **TL;DR:** La Arepera es gratuita: no tiene compras dentro de la app ni anuncios. No pide cuenta propia ni tiene servidores propios, y tu progreso queda en tu dispositivo. Si inicias sesión en Google Play Juegos o Game Center, tus logros y puntajes se guardan en esos servicios.
 
@@ -40,7 +40,7 @@ No vendemos ni compartimos datos. Los únicos terceros que reciben información 
 
 ## Retención y eliminación
 
-Mientras el juego esté instalado, tu progreso queda en el dispositivo. Para borrarlo, borra los datos de la app desde los ajustes del sistema o desinstálala. Para borrar tus logros y puntajes, usa las opciones de Google Play Juegos o de Game Center.
+Mientras el juego esté instalado, tu progreso queda en el dispositivo. Para borrarlo, borra los datos de la app desde los ajustes del sistema o desinstálala. Para borrar tus logros y puntajes, usa las opciones de Google Play Juegos o de Game Center. Más detalles en la [página de eliminación de datos](../deletion/).
 
 ## Menores de edad
 
@@ -56,13 +56,13 @@ El uso del juego también se rige por los [Términos y Condiciones](../terms/).
 
 ## Contacto
 
-Para cualquier pregunta sobre esta política: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
+Para cualquier pregunta sobre esta política: [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
 
 ---
 
 # Privacy Policy — La Arepera
 
-Effective October 19, 2026.
+Effective October 22, 2026.
 
 > **TL;DR:** La Arepera is free: it has no in-app purchases and no ads. It has no account of its own and no servers of its own, and your progress stays on your device. If you sign in to Google Play Games or Game Center, your achievements and scores are stored in those services.
 
@@ -96,7 +96,7 @@ We do not sell or share data. The only third parties that receive information ar
 
 ## Retention and deletion
 
-While the game is installed, your progress stays on the device. To delete it, clear the app data from the system settings or uninstall the app. To delete your achievements and scores, use the options of Google Play Games or Game Center.
+While the game is installed, your progress stays on the device. To delete it, clear the app data from the system settings or uninstall the app. To delete your achievements and scores, use the options of Google Play Games or Game Center. More details on the [data deletion page](../deletion/).
 
 ## Children's privacy
 
@@ -112,4 +112,4 @@ Use of the game is also governed by the [Terms and Conditions](../terms/).
 
 ## Contact
 
-For any question about this policy: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
+For any question about this policy: [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).

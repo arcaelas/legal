@@ -6,7 +6,7 @@ title: Términos y Condiciones — La Arepera
 
 # Términos y Condiciones — La Arepera
 
-Vigentes desde el 19 de octubre de 2026.
+Vigentes desde el 22 de octubre de 2026.
 
 Estos términos regulan el uso de La Arepera (paquete `com.arcaelas.arepera`), un juego gratuito de Arcaelas. Al descargar, instalar o usar el juego, aceptas estos términos. Si no estás de acuerdo, no lo uses.
 
@@ -66,13 +66,13 @@ Si actualizamos estos términos, publicaremos la nueva versión en esta misma di
 
 ## Contacto
 
-Para cualquier pregunta sobre estos términos: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
+Para cualquier pregunta sobre estos términos: [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
 
 ---
 
 # Terms and Conditions — La Arepera
 
-Effective October 19, 2026.
+Effective October 22, 2026.
 
 These terms govern the use of La Arepera (package `com.arcaelas.arepera`), a free game by Arcaelas. By downloading, installing or using the game, you accept these terms. If you do not agree, do not use it.
 
@@ -132,4 +132,4 @@ If we update these terms, we'll publish the new version at this same URL and upd
 
 ## Contact
 
-For any question about these terms: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
+For any question about these terms: [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
