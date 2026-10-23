@@ -1,12 +1,12 @@
 ---
-title: Soporte — Dominó Venezolano
+title: Soporte — Dominó: El Venezolano
 ---
 
 [← Arcaelas Legal](../../)
 
-# Soporte — Dominó Venezolano
+# Soporte — Dominó: El Venezolano
 
-¿Necesitas ayuda con Dominó Venezolano? Escríbenos a [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com). Cuéntanos qué ocurrió, el modelo de tu teléfono y la versión de su sistema, y te respondemos por correo.
+¿Necesitas ayuda con Dominó: El Venezolano? Escríbenos a [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/). Cuéntanos qué ocurrió, el modelo de tu teléfono y la versión de su sistema, y te respondemos por correo.
 
 ## Preguntas frecuentes
 
@@ -47,9 +47,9 @@ No. Contra la computadora se juega sin conexión, y en red solo hace falta una w
 
 ---
 
-# Support — Dominó Venezolano
+# Support — Dominó: El Venezolano
 
-Need help with Dominó Venezolano? Write to us at [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com). Tell us what happened, your phone model and its system version, and we'll reply by email.
+Need help with Dominó: El Venezolano? Write to us at [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/). Tell us what happened, your phone model and its system version, and we'll reply by email.
 
 ## Frequently asked questions
 

@@ -1,18 +1,18 @@
 ---
-title: Política de Privacidad — Dominó Venezolano
+title: Política de Privacidad — Dominó: El Venezolano
 ---
 
 [← Arcaelas Legal](../../)
 
-# Política de Privacidad — Dominó Venezolano
+# Política de Privacidad — Dominó: El Venezolano
 
-Vigente desde el 18 de octubre de 2026.
+Vigente desde el 22 de octubre de 2026.
 
-> **TL;DR:** Dominó Venezolano no pide cuenta, no muestra publicidad, no tiene compras y no recopila datos personales. Tus ajustes quedan en tu dispositivo y las partidas en red local viajan directamente entre los teléfonos conectados a la misma wifi, sin pasar por ningún servidor. En Android, el lector de códigos QR usa un componente de Google que envía datos técnicos de diagnóstico.
+> **TL;DR:** Dominó: El Venezolano no pide cuenta, no muestra publicidad, no tiene compras y no recopila datos personales. Tus ajustes quedan en tu dispositivo y las partidas en red local viajan directamente entre los teléfonos conectados a la misma wifi, sin pasar por ningún servidor. En Android, el lector de códigos QR usa un componente de Google que envía datos técnicos de diagnóstico.
 
 ## Quiénes somos
 
-Dominó Venezolano (paquete `com.arcaelas.domino`) es un juego de dominó para móviles desarrollado por Arcaelas. Esta política describe cómo se manejan los datos cuando juegas en tu dispositivo.
+Dominó: El Venezolano (paquete `com.arcaelas.domino`) es un juego de dominó para móviles desarrollado por Arcaelas. Esta política describe cómo se manejan los datos cuando juegas en tu dispositivo.
 
 ## Qué datos recopilamos
 
@@ -70,7 +70,7 @@ No vendemos ni compartimos datos. El único tercero que recibe información es G
 
 ## Retención y eliminación
 
-Mientras el juego esté instalado, tus datos quedan en el dispositivo. Para borrarlos, borra los datos de la aplicación desde los ajustes del sistema o desinstálala.
+Mientras el juego esté instalado, tus datos quedan en el dispositivo. Para borrarlos, borra los datos de la aplicación desde los ajustes del sistema o desinstálala. Más detalles en la [página de eliminación de datos](../deletion/).
 
 ## Menores de edad
 
@@ -82,19 +82,19 @@ Si actualizamos esta política, publicaremos la nueva versión en esta misma dir
 
 ## Contacto
 
-Para cualquier pregunta sobre esta política: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
+Para cualquier pregunta sobre esta política: [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
 
 ---
 
-# Privacy Policy — Dominó Venezolano
+# Privacy Policy — Dominó: El Venezolano
 
-Effective October 18, 2026.
+Effective October 22, 2026.
 
-> **TL;DR:** Dominó Venezolano requires no account, shows no ads, has no purchases and collects no personal data. Your settings stay on your device, and local network games travel directly between phones on the same Wi-Fi, without going through any server. On Android, the QR code reader uses a Google component that sends technical diagnostic data.
+> **TL;DR:** Dominó: El Venezolano requires no account, shows no ads, has no purchases and collects no personal data. Your settings stay on your device, and local network games travel directly between phones on the same Wi-Fi, without going through any server. On Android, the QR code reader uses a Google component that sends technical diagnostic data.
 
 ## Who we are
 
-Dominó Venezolano (package `com.arcaelas.domino`) is a dominoes game for mobile devices developed by Arcaelas. This policy describes how data is handled when you play on your device.
+Dominó: El Venezolano (package `com.arcaelas.domino`) is a dominoes game for mobile devices developed by Arcaelas. This policy describes how data is handled when you play on your device.
 
 ## What data we collect
 
@@ -152,7 +152,7 @@ We do not sell or share data. The only third party that receives information is 
 
 ## Retention and deletion
 
-While the game is installed, your data stays on the device. To delete it, clear the app data from the system settings or uninstall the app.
+While the game is installed, your data stays on the device. To delete it, clear the app data from the system settings or uninstall the app. More details on the [data deletion page](../deletion/).
 
 ## Children's privacy
 
@@ -164,4 +164,4 @@ If we update this policy, we'll publish the new version at this same URL and upd
 
 ## Contact
 
-For any question about this policy: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
+For any question about this policy: [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
