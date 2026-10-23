@@ -1,18 +1,18 @@
 ---
-title: Política de Privacidad — Palabreo
+title: Política de Privacidad — Palabreos
 ---
 
 [← Arcaelas Legal](../../)
 
-# Política de Privacidad — Palabreo
+# Política de Privacidad — Palabreos
 
-Vigente desde el 15 de octubre de 2026.
+Vigente desde el 23 de octubre de 2026.
 
-> **TL;DR:** Palabreo no pide cuenta ni recopila datos personales. Tus partidas, ajustes y estadísticas quedan en tu dispositivo. A internet solo sale la palabra cuyo significado consultas, y en Android el lector de códigos QR usa un componente de Google que envía datos técnicos de diagnóstico.
+> **TL;DR:** Palabreos no pide cuenta ni recopila datos personales. Tus partidas, ajustes y estadísticas quedan en tu dispositivo. A internet solo sale la palabra cuyo significado consultas, y en Android el lector de códigos QR usa un componente de Google que envía datos técnicos de diagnóstico.
 
 ## Quiénes somos
 
-Palabreo (paquete `com.arcaelas.worders`) es un juego de palabras para móviles desarrollado por Arcaelas. Esta política describe cómo se manejan los datos cuando juegas en tu dispositivo.
+Palabreos (paquete `com.arcaelas.worders`) es un juego de palabras para móviles desarrollado por Arcaelas. Esta política describe cómo se manejan los datos cuando juegas en tu dispositivo.
 
 ## Qué datos recopilamos
 
@@ -78,7 +78,7 @@ No vendemos ni compartimos datos. Los únicos terceros que reciben información 
 
 ## Retención y eliminación
 
-Mientras tengas el juego instalado, tus datos permanecen en el dispositivo. Para eliminarlos puedes borrar los datos de la app desde los ajustes del sistema o desinstalarla.
+Mientras tengas el juego instalado, tus datos permanecen en el dispositivo. Para eliminarlos puedes borrar los datos de la app desde los ajustes del sistema o desinstalarla. Más detalles en la [página de eliminación de datos](../deletion/).
 
 ## Menores de edad
 
@@ -90,19 +90,19 @@ Si actualizamos esta política, publicaremos la nueva versión en esta misma URL
 
 ## Contacto
 
-Para cualquier consulta sobre esta política: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
+Para cualquier consulta sobre esta política: [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
 
 ---
 
-# Privacy Policy — Palabreo
+# Privacy Policy — Palabreos
 
-Effective October 15, 2026.
+Effective October 23, 2026.
 
-> **TL;DR:** Palabreo requires no account and collects no personal data. Your games, settings and statistics stay on your device. The only thing sent over the internet is the word whose meaning you look up, and on Android the QR code reader uses a Google component that sends technical diagnostic data.
+> **TL;DR:** Palabreos requires no account and collects no personal data. Your games, settings and statistics stay on your device. The only thing sent over the internet is the word whose meaning you look up, and on Android the QR code reader uses a Google component that sends technical diagnostic data.
 
 ## Who we are
 
-Palabreo (package `com.arcaelas.worders`) is a mobile word game developed by Arcaelas. This policy describes how data is handled when you play on your device.
+Palabreos (package `com.arcaelas.worders`) is a mobile word game developed by Arcaelas. This policy describes how data is handled when you play on your device.
 
 ## What data we collect
 
@@ -168,7 +168,7 @@ We do not sell or share data. The only third parties that receive information ar
 
 ## Retention and deletion
 
-While the game is installed, your data stays on the device. To delete it, clear the app data from the system settings or uninstall the app.
+While the game is installed, your data stays on the device. To delete it, clear the app data from the system settings or uninstall the app. More details on the [data deletion page](../deletion/).
 
 ## Children's privacy
 
@@ -180,4 +180,4 @@ If we update this policy, we'll publish the new version at this same URL and upd
 
 ## Contact
 
-For any question about this policy: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
+For any question about this policy: [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
