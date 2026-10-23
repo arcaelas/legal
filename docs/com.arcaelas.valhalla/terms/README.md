@@ -6,7 +6,7 @@ title: Términos y Condiciones — Valhalla
 
 # Términos y Condiciones — Valhalla
 
-Vigentes desde el 18 de octubre de 2026.
+Vigentes desde el 22 de octubre de 2026.
 
 Estos términos regulan el uso de Valhalla (paquete `com.arcaelas.valhalla`), un juego de Arcaelas. Al descargar, instalar o usar el juego, aceptas estos términos. Si no estás de acuerdo, no lo uses.
 
@@ -75,13 +75,13 @@ Estos términos se rigen por las leyes de la República de Chile. Cualquier cont
 
 ## Contacto
 
-Para cualquier pregunta sobre estos términos: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
+Para cualquier pregunta sobre estos términos: [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
 
 ---
 
 # Terms and Conditions — Valhalla
 
-Effective October 18, 2026.
+Effective October 22, 2026.
 
 These terms govern the use of Valhalla (package `com.arcaelas.valhalla`), a game by Arcaelas. By downloading, installing or using the game, you accept these terms. If you do not agree, do not use it.
 
@@ -150,4 +150,4 @@ These terms are governed by the laws of the Republic of Chile. Any dispute will 
 
 ## Contact
 
-For any question about these terms: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
+For any question about these terms: [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).

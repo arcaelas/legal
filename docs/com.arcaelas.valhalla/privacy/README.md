@@ -6,7 +6,7 @@ title: Política de Privacidad — Valhalla
 
 # Política de Privacidad — Valhalla
 
-Vigente desde el 18 de octubre de 2026.
+Vigente desde el 22 de octubre de 2026.
 
 > **TL;DR:** Valhalla se juega sin conexión: no pide cuenta, no muestra publicidad, no tiene compras con dinero real y no recopila ni comparte datos personales. Tu isla, tu progreso y tus ajustes quedan en tu dispositivo, y el juego no se conecta a internet.
 
@@ -53,7 +53,7 @@ Como los datos del juego no salen de tu dispositivo, no viajan por ninguna red y
 
 ## Retención y eliminación
 
-Mientras el juego esté instalado, tus datos quedan en el dispositivo. Para borrarlos, borra los datos de la aplicación desde los ajustes del sistema o desinstálala: al desinstalarla, el sistema borra también su carpeta propia. Como no guardamos nada tuyo, no tenemos datos que borrar en nuestro lado ni podemos recuperar tu progreso.
+Mientras el juego esté instalado, tus datos quedan en el dispositivo. Para borrarlos, borra los datos de la aplicación desde los ajustes del sistema o desinstálala: al desinstalarla, el sistema borra también su carpeta propia. Como no guardamos nada tuyo, no tenemos datos que borrar en nuestro lado ni podemos recuperar tu progreso. Más detalles en la [página de eliminación de datos](../deletion/).
 
 ## Menores de edad
 
@@ -65,13 +65,13 @@ Si actualizamos esta política, publicaremos la nueva versión en esta misma dir
 
 ## Contacto
 
-Para cualquier pregunta sobre esta política: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
+Para cualquier pregunta sobre esta política: [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
 
 ---
 
 # Privacy Policy — Valhalla
 
-Effective October 18, 2026.
+Effective October 22, 2026.
 
 > **TL;DR:** Valhalla is played offline: it requires no account, shows no ads, has no real-money purchases and collects or shares no personal data. Your island, your progress and your settings stay on your device, and the game does not connect to the internet.
 
@@ -118,7 +118,7 @@ Since the game's data never leaves your device, it does not travel over any netw
 
 ## Retention and deletion
 
-While the game is installed, your data stays on the device. To delete it, clear the app data from the system settings or uninstall the app: uninstalling also makes the system delete its own folder. Since we keep nothing of yours, we have no data to delete on our side and cannot recover your progress.
+While the game is installed, your data stays on the device. To delete it, clear the app data from the system settings or uninstall the app: uninstalling also makes the system delete its own folder. Since we keep nothing of yours, we have no data to delete on our side and cannot recover your progress. More details on the [data deletion page](../deletion/).
 
 ## Children's privacy
 
@@ -130,4 +130,4 @@ If we update this policy, we'll publish the new version at this same URL and upd
 
 ## Contact
 
-For any question about this policy: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
+For any question about this policy: [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
