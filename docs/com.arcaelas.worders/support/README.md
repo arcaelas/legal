@@ -1,12 +1,12 @@
 ---
-title: Soporte — Palabreo
+title: Soporte — Palabreos
 ---
 
 [← Arcaelas Legal](../../)
 
-# Soporte — Palabreo
+# Soporte — Palabreos
 
-¿Necesitas ayuda con Palabreo? Escríbenos a [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com). Cuéntanos qué ocurrió, el modelo de tu teléfono y la versión de su sistema, y te respondemos por correo.
+¿Necesitas ayuda con Palabreos? Escríbenos a [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/). Cuéntanos qué ocurrió, el modelo de tu teléfono y la versión de su sistema, y te respondemos por correo.
 
 ## Preguntas frecuentes
 
@@ -37,7 +37,7 @@ La partida queda en pausa hasta 2 horas y continúa cuando el anfitrión vuelve 
 
 ### No aparece el significado de una palabra
 
-Los significados se consultan en el Wikcionario y, si no está la palabra, en Wikidata; requieren conexión a internet. Algunas palabras y sílabas no tienen entrada en ninguno de los dos: en ese caso el juego avisa que la palabra no tiene significado en el Wikcionario, pero sigue siendo válida en Palabreo.
+Los significados se consultan en el Wikcionario y, si no está la palabra, en Wikidata; requieren conexión a internet. Algunas palabras y sílabas no tienen entrada en ninguno de los dos: en ese caso el juego avisa que la palabra no tiene significado en el Wikcionario, pero sigue siendo válida en Palabreos.
 
 ### El juego rechazó una palabra válida o aceptó una que no existe
 
@@ -57,13 +57,13 @@ Borra los datos de la app desde los ajustes del sistema o desinstálala. Más de
 
 ## Contacto
 
-Para cualquier otra consulta: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
+Para cualquier otra consulta: [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
 
 ---
 
-# Support — Palabreo
+# Support — Palabreos
 
-Need help with Palabreo? Write to [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com). Tell us what happened, your phone model and its system version, and we will answer by email.
+Need help with Palabreos? Write to [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/). Tell us what happened, your phone model and its system version, and we will answer by email.
 
 ## Frequently asked questions
 
@@ -94,7 +94,7 @@ The game is paused for up to 2 hours and continues when the host opens it again.
 
 ### The meaning of a word does not show
 
-Meanings are looked up in Wiktionary and, if the word is not there, in Wikidata; they need an internet connection. Some words and syllables have no entry in either: in that case the game says the word has no meaning in Wiktionary, but it is still valid in Palabreo.
+Meanings are looked up in Wiktionary and, if the word is not there, in Wikidata; they need an internet connection. Some words and syllables have no entry in either: in that case the game says the word has no meaning in Wiktionary, but it is still valid in Palabreos.
 
 ### The game rejected a valid word or accepted one that does not exist
 
@@ -114,4 +114,4 @@ Clear the app data from the system settings or uninstall the app. More details i
 
 ## Contact
 
-For any other question: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
+For any other question: [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
