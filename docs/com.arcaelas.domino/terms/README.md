@@ -1,14 +1,14 @@
 ---
-title: Términos y Condiciones — Dominó Venezolano
+title: Términos y Condiciones — Dominó: El Venezolano
 ---
 
 [← Arcaelas Legal](../../)
 
-# Términos y Condiciones — Dominó Venezolano
+# Términos y Condiciones — Dominó: El Venezolano
 
-Vigentes desde el 18 de octubre de 2026.
+Vigentes desde el 22 de octubre de 2026.
 
-Estos términos regulan el uso de Dominó Venezolano (paquete `com.arcaelas.domino`), un juego de Arcaelas. Al descargar, instalar o usar el juego, aceptas estos términos. Si no estás de acuerdo, no lo uses.
+Estos términos regulan el uso de Dominó: El Venezolano (paquete `com.arcaelas.domino`), un juego de Arcaelas. Al descargar, instalar o usar el juego, aceptas estos términos. Si no estás de acuerdo, no lo uses.
 
 ## Licencia de uso
 
@@ -67,15 +67,15 @@ Si actualizamos estos términos, publicaremos la nueva versión en esta misma di
 
 ## Contacto
 
-Para cualquier pregunta sobre estos términos: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
+Para cualquier pregunta sobre estos términos: [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
 
 ---
 
-# Terms and Conditions — Dominó Venezolano
+# Terms and Conditions — Dominó: El Venezolano
 
-Effective October 18, 2026.
+Effective October 22, 2026.
 
-These terms govern the use of Dominó Venezolano (package `com.arcaelas.domino`), a game by Arcaelas. By downloading, installing or using the game, you accept these terms. If you do not agree, do not use it.
+These terms govern the use of Dominó: El Venezolano (package `com.arcaelas.domino`), a game by Arcaelas. By downloading, installing or using the game, you accept these terms. If you do not agree, do not use it.
 
 ## License
 
@@ -134,4 +134,4 @@ If we update these terms, we'll publish the new version at this same URL and upd
 
 ## Contact
 
-For any question about these terms: [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com).
+For any question about these terms: [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
