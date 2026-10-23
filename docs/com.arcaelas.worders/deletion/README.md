@@ -12,8 +12,8 @@ title: Eliminación de datos — Palabreos
 
 ## Borrar tus datos
 
-- **Android:** Ajustes → Apps → Palabreo → Almacenamiento → Borrar almacenamiento, o desinstala el juego.
-- **iPhone:** mantén pulsado el ícono de Palabreo → Eliminar app.
+- **Android:** Ajustes → Apps → Palabreos → Almacenamiento → Borrar almacenamiento, o desinstala el juego.
+- **iPhone:** mantén pulsado el ícono de Palabreos → Eliminar app.
 
 Se borran tu nombre de jugador, tus ajustes, tus estadísticas y tu cartera de puntos. Las partidas en red local no se guardan en ningún servidor.
 
@@ -33,8 +33,8 @@ Last updated: October 23, 2026.
 
 ## Delete your data
 
-- **Android:** Settings → Apps → Palabreo → Storage → Clear storage, or uninstall the game.
-- **iPhone:** long-press the Palabreo icon → Remove App.
+- **Android:** Settings → Apps → Palabreos → Storage → Clear storage, or uninstall the game.
+- **iPhone:** long-press the Palabreos icon → Remove App.
 
 This erases your player name, settings, statistics and points wallet. Local network games are not stored on any server.
 
