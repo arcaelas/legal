@@ -18,7 +18,7 @@ En el menú, «Cómo jugar» abre las reglas y un tutorial guiado para tu primer
 
 - Todos los teléfonos deben estar conectados a la misma red wifi.
 - Únete escaneando el código QR de la sala o escribiendo el código a mano.
-- En iPhone, permite el acceso a la red local: Ajustes > Privacidad y seguridad > Red local > Palabreo.
+- En iPhone, permite el acceso a la red local: Ajustes > Privacidad y seguridad > Red local > Palabreos.
 - Con algunas VPN encendidas, los teléfonos no pueden encontrarse o conectarse en la red local; el juego te lo avisa en las pantallas de la partida en red.
 
 Un iPhone y un teléfono Android pueden jugar en la misma partida.
@@ -75,7 +75,7 @@ In the menu, «Cómo jugar» opens the rules and a guided tutorial for your firs
 
 - Every phone must be connected to the same Wi-Fi network.
 - Join by scanning the QR code of the room or by typing the code by hand.
-- On iPhone, allow access to the local network: Settings > Privacy & Security > Local Network > Palabreo.
+- On iPhone, allow access to the local network: Settings > Privacy & Security > Local Network > Palabreos.
 - With some VPNs turned on, phones cannot find or connect to each other on the local network; the game lets you know on the network game screens.
 
 An iPhone and an Android phone can play in the same game.
