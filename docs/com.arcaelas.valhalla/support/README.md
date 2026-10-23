@@ -6,7 +6,7 @@ title: Soporte — Valhalla
 
 # Soporte — Valhalla
 
-¿Necesitas ayuda con Valhalla? Escríbenos a [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com). Cuéntanos qué ocurrió, el modelo de tu teléfono y la versión de su sistema, y te respondemos por correo.
+¿Necesitas ayuda con Valhalla? Escríbenos a [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/). Cuéntanos qué ocurrió, el modelo de tu teléfono y la versión de su sistema, y te respondemos por correo.
 
 ## Preguntas frecuentes
 
@@ -46,7 +46,7 @@ En los ajustes del juego puedes elegir español o inglés. Si no eliges ninguno,
 
 # Support — Valhalla
 
-Need help with Valhalla? Write to us at [arcaela.reyes@gmail.com](mailto:arcaela.reyes@gmail.com). Tell us what happened, your phone model and its system version, and we'll reply by email.
+Need help with Valhalla? Write to us at [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/). Tell us what happened, your phone model and its system version, and we'll reply by email.
 
 ## Frequently asked questions
 
