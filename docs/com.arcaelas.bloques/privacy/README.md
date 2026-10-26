@@ -1,5 +1,5 @@
 ---
-title: Política de Privacidad — Minicraft: Alessandro
+title: "Política de Privacidad — Minicraft: Alessandro"
 ---
 
 [← Arcaelas Legal](../../)
