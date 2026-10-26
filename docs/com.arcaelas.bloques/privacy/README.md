@@ -58,7 +58,7 @@ En Android, el juego usa:
 - **Internet**, solo para jugar en línea.
 - **Vibración**, para hacer vibrar el teléfono en algunos momentos del juego.
 
-La versión actual también declara el permiso de **micrófono**, pero no lo pide ni lo usa: el juego no graba ni envía audio. No usa la cámara, la ubicación, los contactos, las fotos ni el almacenamiento compartido, y no envía notificaciones.
+El juego no usa el micrófono, la cámara, la ubicación, los contactos, las fotos ni el almacenamiento compartido, y no envía notificaciones.
 
 ## Compras y publicidad
 
@@ -74,7 +74,7 @@ La conexión con el servidor del juego viaja cifrada (HTTPS y WSS) entre tu disp
 
 ## Retención y eliminación
 
-Los datos de tu dispositivo quedan ahí mientras el juego esté instalado. Para borrarlos, borra los datos de la aplicación desde los ajustes de Android o desinstálala; **EMPEZAR DE NUEVO**, al tocar **JUGAR**, borra el mundo de tu partida guardada y crea uno nuevo. Los mundos de las salas y el registro técnico del servidor no se borran solos: si quieres que borremos una sala o las entradas del registro con tu nombre, escríbenos con el código de la sala y el nombre que usaste.
+Los datos de tu dispositivo quedan ahí mientras el juego esté instalado. Para borrarlos, borra los datos de la aplicación desde los ajustes de Android o desinstálala; **EMPEZAR DE NUEVO**, al tocar **JUGAR**, borra el mundo de tu partida guardada y crea uno nuevo. Los mundos de las salas y el registro técnico del servidor no se borran solos: si quieres que borremos una sala o las entradas del registro con tu nombre, escríbenos con el código de la sala y el nombre que usaste, y los borraremos.
 
 ## Menores de edad
 
@@ -144,7 +144,7 @@ On Android, the game uses:
 - **Internet**, only to play online.
 - **Vibration**, to make the phone vibrate at some moments of the game.
 
-The current version also declares the **microphone** permission, but it never requests or uses it: the game records and sends no audio. It does not use the camera, location, contacts, photos or shared storage, and it sends no notifications.
+The game does not use the microphone, camera, location, contacts, photos or shared storage, and it sends no notifications.
 
 ## Purchases and ads
 
@@ -160,7 +160,7 @@ The connection to the game server travels encrypted (HTTPS and WSS) between your
 
 ## Retention and deletion
 
-The data on your device stays there while the game is installed. To delete it, clear the app data from the Android settings or uninstall the game; **EMPEZAR DE NUEVO**, after tapping **JUGAR**, deletes your saved game's world and creates a new one. Room worlds and the server's technical log are not deleted automatically: if you want us to delete a room or the log entries with your name, write to us with the room code and the name you used.
+The data on your device stays there while the game is installed. To delete it, clear the app data from the Android settings or uninstall the game; **EMPEZAR DE NUEVO**, after tapping **JUGAR**, deletes your saved game's world and creates a new one. Room worlds and the server's technical log are not deleted automatically: if you want us to delete a room or the log entries with your name, write to us with the room code and the name you used, and we will delete them.
 
 ## Children's privacy
 
