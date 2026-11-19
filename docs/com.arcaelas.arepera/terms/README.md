@@ -34,7 +34,7 @@ Si inicias sesión en Google Play Juegos o en Game Center, el uso de esos servic
 
 ## Propiedad intelectual
 
-El juego, su código, su diseño, sus textos, sus gráficos, sus modelos, su música y sus sonidos son propiedad de Arcaelas o se usan con licencia. Las tipografías se usan bajo la licencia SIL Open Font License. Estos términos no te transfieren ningún derecho sobre el juego, salvo la licencia de uso descrita arriba.
+El juego, su código, su diseño, sus textos, sus gráficos, sus modelos, su música y sus sonidos son propiedad de Arcaelas o se usan con licencia. Las tipografías se usan bajo la licencia SIL Open Font License. La animación de los personajes se genera con UniMate, de Linzhan Mou, que se usa bajo la licencia Creative Commons Atribución-NoComercial 4.0 (CC BY-NC 4.0). Estos términos no te transfieren ningún derecho sobre el juego, salvo la licencia de uso descrita arriba.
 
 ## Privacidad
 
@@ -100,7 +100,7 @@ If you sign in to Google Play Games or Game Center, the use of those services is
 
 ## Intellectual property
 
-The game, its code, design, texts, graphics, models, music and sounds are owned by Arcaelas or used under license. Fonts are used under the SIL Open Font License. These terms do not transfer to you any right over the game other than the license described above.
+The game, its code, design, texts, graphics, models, music and sounds are owned by Arcaelas or used under license. Fonts are used under the SIL Open Font License. Character animation is generated with UniMate, by Linzhan Mou, used under the Creative Commons Attribution-NonCommercial 4.0 license (CC BY-NC 4.0). These terms do not transfer to you any right over the game other than the license described above.
 
 ## Privacy
 
