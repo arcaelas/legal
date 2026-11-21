@@ -32,7 +32,7 @@ Sí, automáticamente en tu teléfono. Si borras los datos de la app o la desins
 
 ### ¿El juego tiene compras o anuncios?
 
-No. La Arepera es gratuita: no vende nada dentro de la app y no muestra anuncios. Los billetes se ganan jugando.
+No tiene compras: La Arepera es gratuita y no vende nada dentro de la app. En Android puedes ver un video publicitario a cambio de diamantes, solo si tocas el «+» de los diamantes y aceptas; los anuncios nunca aparecen solos. En iPhone no hay anuncios. Los billetes se ganan jugando.
 
 ### No veo mis logros
 
@@ -68,7 +68,7 @@ Yes, automatically on your phone. If you clear the app data or uninstall it, the
 
 ### Does the game have purchases or ads?
 
-No. La Arepera is free: it sells nothing inside the app and shows no ads. Cash is earned by playing.
+It has no purchases: La Arepera is free and sells nothing inside the app. On Android you can watch a video ad in exchange for diamonds, only if you tap the “+” next to your diamonds and agree; ads never appear on their own. On iPhone there are no ads. Cash is earned by playing.
 
 ### I can't see my achievements
 
