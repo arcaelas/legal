@@ -8,7 +8,7 @@ title: Términos y Condiciones — Palabreos
 
 Vigentes desde el 23 de octubre de 2026.
 
-Estos términos regulan el uso de Palabreos (paquete `com.arcaelas.worders`), un juego de Arcaelas. Al descargar, instalar o usar el juego, aceptas estos términos. Si no estás de acuerdo, no lo uses.
+Estos términos regulan el uso de Palabreos (paquete `com.arcaelas.worders`), un juego de Arcaelas Insiders, LLC. Al descargar, instalar o usar el juego, aceptas estos términos. Si no estás de acuerdo, no lo uses.
 
 ## Licencia de uso
 
@@ -33,7 +33,7 @@ Los significados de las palabras se consultan en el Wikcionario y en Wikidata, d
 
 ## Propiedad intelectual
 
-El juego, su código, su diseño, sus textos, sus gráficos y sus sonidos son propiedad de Arcaelas o se usan con licencia. Las tipografías se usan bajo la licencia SIL Open Font License. Los significados provienen del Wikcionario (CC BY-SA 4.0) y de Wikidata (CC0). Estos términos no te transfieren ningún derecho sobre el juego, salvo la licencia de uso descrita arriba.
+El juego, su código, su diseño, sus textos, sus gráficos y sus sonidos son propiedad de Arcaelas Insiders, LLC o se usan con licencia. Las tipografías se usan bajo la licencia SIL Open Font License. Los significados provienen del Wikcionario (CC BY-SA 4.0) y de Wikidata (CC0). Estos términos no te transfieren ningún derecho sobre el juego, salvo la licencia de uso descrita arriba.
 
 ## Privacidad
 
@@ -41,7 +41,7 @@ El tratamiento de datos se describe en la [Política de Privacidad](../privacy/)
 
 ## Tiendas de aplicaciones
 
-Si descargaste el juego desde Google Play, también se aplican las condiciones de Google Play. Si lo descargaste desde el App Store, también se aplica el [Contrato de Licencia de Usuario Final estándar de Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). En ese caso, estos términos son entre tú y Arcaelas, no con Apple; Apple no es responsable del juego ni de su contenido, no tiene obligación de darle mantenimiento ni soporte, y es tercero beneficiario de estos términos con derecho a hacerlos valer frente a ti.
+Si descargaste el juego desde Google Play, también se aplican las condiciones de Google Play. Si lo descargaste desde el App Store, también se aplica el [Contrato de Licencia de Usuario Final estándar de Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). En ese caso, estos términos son entre tú y Arcaelas Insiders, LLC, no con Apple; Apple no es responsable del juego ni de su contenido, no tiene obligación de darle mantenimiento ni soporte, y es tercero beneficiario de estos términos con derecho a hacerlos valer frente a ti.
 
 ## Actualizaciones
 
@@ -53,7 +53,7 @@ El juego se ofrece «tal cual» y «según disponibilidad», sin garantías de n
 
 ## Limitación de responsabilidad
 
-En la medida máxima que permita la ley aplicable, Arcaelas no será responsable de daños indirectos, incidentales, especiales o consecuentes, ni de la pérdida de datos o de partidas, derivados del uso o de la imposibilidad de usar el juego. Como el juego es gratuito, nuestra responsabilidad total, si la hubiera, no superará el monto que hayas pagado por él. Nada en estos términos limita los derechos que la ley de tu país te reconoce como consumidor y que no se pueden renunciar.
+En la medida máxima que permita la ley aplicable, Arcaelas Insiders, LLC no será responsable de daños indirectos, incidentales, especiales o consecuentes, ni de la pérdida de datos o de partidas, derivados del uso o de la imposibilidad de usar el juego. Como el juego es gratuito, nuestra responsabilidad total, si la hubiera, no superará el monto que hayas pagado por él. Nada en estos términos limita los derechos que la ley de tu país te reconoce como consumidor y que no se pueden renunciar.
 
 ## Terminación
 
@@ -73,7 +73,7 @@ Para cualquier pregunta sobre estos términos: [miguel.guevara@arcaelas.com](mai
 
 Effective October 23, 2026.
 
-These terms govern the use of Palabreos (package `com.arcaelas.worders`), a game by Arcaelas. By downloading, installing or using the game, you accept these terms. If you do not agree, do not use it.
+These terms govern the use of Palabreos (package `com.arcaelas.worders`), a game by Arcaelas Insiders, LLC. By downloading, installing or using the game, you accept these terms. If you do not agree, do not use it.
 
 ## License
 
@@ -98,7 +98,7 @@ Word meanings are looked up on Wiktionary and Wikidata, from the Wikimedia Found
 
 ## Intellectual property
 
-The game, its code, design, texts, graphics and sounds are owned by Arcaelas or used under license. Fonts are used under the SIL Open Font License. Meanings come from Wiktionary (CC BY-SA 4.0) and Wikidata (CC0). These terms do not transfer to you any right over the game other than the license described above.
+The game, its code, design, texts, graphics and sounds are owned by Arcaelas Insiders, LLC or used under license. Fonts are used under the SIL Open Font License. Meanings come from Wiktionary (CC BY-SA 4.0) and Wikidata (CC0). These terms do not transfer to you any right over the game other than the license described above.
 
 ## Privacy
 
@@ -106,7 +106,7 @@ Data handling is described in the [Privacy Policy](../privacy/), which is part o
 
 ## App stores
 
-If you downloaded the game from Google Play, Google Play's terms also apply. If you downloaded it from the App Store, [Apple's Standard Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies. In that case, these terms are between you and Arcaelas, not Apple; Apple is not responsible for the game or its content, has no obligation to provide maintenance or support for it, and is a third-party beneficiary of these terms with the right to enforce them against you.
+If you downloaded the game from Google Play, Google Play's terms also apply. If you downloaded it from the App Store, [Apple's Standard Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies. In that case, these terms are between you and Arcaelas Insiders, LLC, not Apple; Apple is not responsible for the game or its content, has no obligation to provide maintenance or support for it, and is a third-party beneficiary of these terms with the right to enforce them against you.
 
 ## Updates
 
@@ -118,7 +118,7 @@ The game is provided "as is" and "as available", without warranties of any kind,
 
 ## Limitation of liability
 
-To the maximum extent permitted by applicable law, Arcaelas will not be liable for indirect, incidental, special or consequential damages, or for loss of data or games, arising from the use of or inability to use the game. Since the game is free, our total liability, if any, will not exceed the amount you paid for it. Nothing in these terms limits the rights that the law of your country grants you as a consumer and that cannot be waived.
+To the maximum extent permitted by applicable law, Arcaelas Insiders, LLC will not be liable for indirect, incidental, special or consequential damages, or for loss of data or games, arising from the use of or inability to use the game. Since the game is free, our total liability, if any, will not exceed the amount you paid for it. Nothing in these terms limits the rights that the law of your country grants you as a consumer and that cannot be waived.
 
 ## Termination
 

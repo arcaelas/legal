@@ -45,3 +45,5 @@ If your system makes automatic backups (Google or iCloud), those backups are man
 ## Need help?
 
 Email us at [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
+
+© 2026 Arcaelas Insiders, LLC

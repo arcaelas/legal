@@ -12,7 +12,7 @@ Vigente desde el 22 de octubre de 2026.
 
 ## Quiénes somos
 
-Valhalla (paquete `com.arcaelas.valhalla`) es un juego de estrategia vikinga para móviles desarrollado por Arcaelas. Esta política describe cómo se manejan los datos cuando juegas en tu dispositivo, en Android y en iPhone.
+Valhalla (paquete `com.arcaelas.valhalla`) es un juego de estrategia vikinga para móviles desarrollado por Arcaelas Insiders, LLC. Esta política describe cómo se manejan los datos cuando juegas en tu dispositivo, en Android y en iPhone.
 
 ## Qué datos recopilamos
 
@@ -77,7 +77,7 @@ Effective October 22, 2026.
 
 ## Who we are
 
-Valhalla (package `com.arcaelas.valhalla`) is a Viking strategy game for mobile devices developed by Arcaelas. This policy describes how data is handled when you play on your device, on Android and on iPhone.
+Valhalla (package `com.arcaelas.valhalla`) is a Viking strategy game for mobile devices developed by Arcaelas Insiders, LLC. This policy describes how data is handled when you play on your device, on Android and on iPhone.
 
 ## What data we collect
 

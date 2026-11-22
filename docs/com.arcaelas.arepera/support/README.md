@@ -73,3 +73,5 @@ It has no purchases: La Arepera is free and sells nothing inside the app. On And
 ### I can't see my achievements
 
 Sign in to Google Play Games (Android) or Game Center (iPhone) from Settings. Achievements earned offline are sent when the connection comes back.
+
+© 2026 Arcaelas Insiders, LLC

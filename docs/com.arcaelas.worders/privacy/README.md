@@ -12,7 +12,7 @@ Vigente desde el 23 de octubre de 2026.
 
 ## Quiénes somos
 
-Palabreos (paquete `com.arcaelas.worders`) es un juego de palabras para móviles desarrollado por Arcaelas. Esta política describe cómo se manejan los datos cuando juegas en tu dispositivo.
+Palabreos (paquete `com.arcaelas.worders`) es un juego de palabras para móviles desarrollado por Arcaelas Insiders, LLC. Esta política describe cómo se manejan los datos cuando juegas en tu dispositivo.
 
 ## Qué datos recopilamos
 
@@ -102,7 +102,7 @@ Effective October 23, 2026.
 
 ## Who we are
 
-Palabreos (package `com.arcaelas.worders`) is a mobile word game developed by Arcaelas. This policy describes how data is handled when you play on your device.
+Palabreos (package `com.arcaelas.worders`) is a mobile word game developed by Arcaelas Insiders, LLC. This policy describes how data is handled when you play on your device.
 
 ## What data we collect
 

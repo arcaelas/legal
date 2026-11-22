@@ -8,7 +8,7 @@ title: Términos y Condiciones — ChessAI
 
 Vigentes desde el 23 de octubre de 2026.
 
-Estos términos regulan el uso de ChessAI (paquete `com.arcaelas.chess`), un juego de Arcaelas. Al descargar, instalar o usar la app, aceptas estos términos. Si no estás de acuerdo, no la uses.
+Estos términos regulan el uso de ChessAI (paquete `com.arcaelas.chess`), un juego de Arcaelas Insiders, LLC. Al descargar, instalar o usar la app, aceptas estos términos. Si no estás de acuerdo, no la uses.
 
 ## Licencia de uso
 
@@ -35,7 +35,7 @@ La app no tiene cuentas ni registro. Tus partidas, estadísticas y ajustes se gu
 
 ## Propiedad intelectual
 
-La app, su código, su diseño, sus textos y sus gráficos son propiedad de Arcaelas o se usan con licencia. Las reglas del ajedrez son de dominio público. Los íconos de Font Awesome Free se usan bajo sus licencias libres (CC BY 4.0 y SIL Open Font License), la tipografía Poppins bajo la licencia SIL Open Font License, y los demás componentes de código abierto bajo sus propias licencias. Estos términos no te transfieren ningún derecho sobre la app, salvo la licencia de uso descrita arriba.
+La app, su código, su diseño, sus textos y sus gráficos son propiedad de Arcaelas Insiders, LLC o se usan con licencia. Las reglas del ajedrez son de dominio público. Los íconos de Font Awesome Free se usan bajo sus licencias libres (CC BY 4.0 y SIL Open Font License), la tipografía Poppins bajo la licencia SIL Open Font License, y los demás componentes de código abierto bajo sus propias licencias. Estos términos no te transfieren ningún derecho sobre la app, salvo la licencia de uso descrita arriba.
 
 ## Privacidad
 
@@ -43,7 +43,7 @@ El tratamiento de datos se describe en la [Política de Privacidad](../privacy/)
 
 ## Tiendas de aplicaciones
 
-Si descargaste la app desde Google Play, también se aplican las condiciones de Google Play. Si la descargaste desde el App Store, también se aplica el [Contrato de Licencia de Usuario Final estándar de Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). En ese caso, estos términos son entre tú y Arcaelas, no con Apple; Apple no es responsable de la app ni de su contenido, no tiene obligación de darle mantenimiento ni soporte, y es tercero beneficiario de estos términos con derecho a hacerlos valer frente a ti.
+Si descargaste la app desde Google Play, también se aplican las condiciones de Google Play. Si la descargaste desde el App Store, también se aplica el [Contrato de Licencia de Usuario Final estándar de Apple](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). En ese caso, estos términos son entre tú y Arcaelas Insiders, LLC, no con Apple; Apple no es responsable de la app ni de su contenido, no tiene obligación de darle mantenimiento ni soporte, y es tercero beneficiario de estos términos con derecho a hacerlos valer frente a ti.
 
 ## Actualizaciones
 
@@ -55,7 +55,7 @@ La app se ofrece «tal cual» y «según disponibilidad», sin garantías de nin
 
 ## Limitación de responsabilidad
 
-En la medida máxima que permita la ley aplicable, Arcaelas no será responsable de daños indirectos, incidentales, especiales o consecuentes, ni de la pérdida de datos, partidas o estadísticas, derivados del uso o de la imposibilidad de usar la app. Como la app es gratuita, nuestra responsabilidad total, si la hubiera, no superará el monto que hayas pagado por ella. Nada en estos términos limita los derechos que la ley de tu país te reconoce como consumidor y que no se pueden renunciar.
+En la medida máxima que permita la ley aplicable, Arcaelas Insiders, LLC no será responsable de daños indirectos, incidentales, especiales o consecuentes, ni de la pérdida de datos, partidas o estadísticas, derivados del uso o de la imposibilidad de usar la app. Como la app es gratuita, nuestra responsabilidad total, si la hubiera, no superará el monto que hayas pagado por ella. Nada en estos términos limita los derechos que la ley de tu país te reconoce como consumidor y que no se pueden renunciar.
 
 ## Terminación
 
@@ -79,7 +79,7 @@ Para cualquier pregunta sobre estos términos: [miguel.guevara@arcaelas.com](mai
 
 Effective October 23, 2026.
 
-These terms govern the use of ChessAI (package `com.arcaelas.chess`), a game by Arcaelas. By downloading, installing or using the app, you accept these terms. If you do not agree, do not use it.
+These terms govern the use of ChessAI (package `com.arcaelas.chess`), a game by Arcaelas Insiders, LLC. By downloading, installing or using the app, you accept these terms. If you do not agree, do not use it.
 
 ## License
 
@@ -106,7 +106,7 @@ The app has no accounts or registration. Your games, statistics and settings are
 
 ## Intellectual property
 
-The app, its code, its design, its texts and its graphics are owned by Arcaelas or used under license. The rules of chess are in the public domain. Font Awesome Free icons are used under their free licenses (CC BY 4.0 and SIL Open Font License), the Poppins typeface under the SIL Open Font License, and the other open source components under their own licenses. These terms do not transfer to you any right over the app, except the license described above.
+The app, its code, its design, its texts and its graphics are owned by Arcaelas Insiders, LLC or used under license. The rules of chess are in the public domain. Font Awesome Free icons are used under their free licenses (CC BY 4.0 and SIL Open Font License), the Poppins typeface under the SIL Open Font License, and the other open source components under their own licenses. These terms do not transfer to you any right over the app, except the license described above.
 
 ## Privacy
 
@@ -114,7 +114,7 @@ Data handling is described in the [Privacy Policy](../privacy/), which is part o
 
 ## App stores
 
-If you downloaded the app from Google Play, the Google Play terms also apply. If you downloaded it from the App Store, [Apple's standard End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies. In that case, these terms are between you and Arcaelas, not Apple; Apple is not responsible for the app or its content, has no obligation to maintain or support it, and is a third-party beneficiary of these terms with the right to enforce them against you.
+If you downloaded the app from Google Play, the Google Play terms also apply. If you downloaded it from the App Store, [Apple's standard End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies. In that case, these terms are between you and Arcaelas Insiders, LLC, not Apple; Apple is not responsible for the app or its content, has no obligation to maintain or support it, and is a third-party beneficiary of these terms with the right to enforce them against you.
 
 ## Updates
 
@@ -126,7 +126,7 @@ The app is provided "as is" and "as available", without warranties of any kind, 
 
 ## Limitation of liability
 
-To the maximum extent permitted by applicable law, Arcaelas will not be liable for indirect, incidental, special or consequential damages, or for the loss of data, games or statistics, arising from the use of or inability to use the app. Since the app is free, our total liability, if any, will not exceed the amount you paid for it. Nothing in these terms limits the rights that the law of your country grants you as a consumer and that cannot be waived.
+To the maximum extent permitted by applicable law, Arcaelas Insiders, LLC will not be liable for indirect, incidental, special or consequential damages, or for the loss of data, games or statistics, arising from the use of or inability to use the app. Since the app is free, our total liability, if any, will not exceed the amount you paid for it. Nothing in these terms limits the rights that the law of your country grants you as a consumer and that cannot be waived.
 
 ## Termination
 

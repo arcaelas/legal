@@ -81,3 +81,5 @@ The game uses your device's time to compute buildings, work and voyages. Keep th
 ### How do I change the language?
 
 In the game settings you can choose Spanish or English. If you don't choose one, the game uses the system language.
+
+© 2026 Arcaelas Insiders, LLC

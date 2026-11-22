@@ -81,3 +81,5 @@ The game shows a notice and reconnects on its own. If the room is full, it tells
 ### How do I delete my data?
 
 Clear the app data from the Android settings or uninstall the game. To start a new world, tap **JUGAR** and choose **EMPEZAR DE NUEVO**. If you want us to delete a room from the server, write to us with its code. More details in the [privacy policy](../privacy/).
+
+© 2026 Arcaelas Insiders, LLC

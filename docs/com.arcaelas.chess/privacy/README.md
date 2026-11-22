@@ -12,7 +12,7 @@ Vigente desde el 23 de octubre de 2026.
 
 ## Quiénes somos
 
-ChessAI (paquete `com.arcaelas.chess`) es un juego de ajedrez para móviles desarrollado por Arcaelas. Esta política describe cómo se manejan los datos cuando juegas en tu dispositivo, en Android y en iPhone.
+ChessAI (paquete `com.arcaelas.chess`) es un juego de ajedrez para móviles desarrollado por Arcaelas Insiders, LLC. Esta política describe cómo se manejan los datos cuando juegas en tu dispositivo, en Android y en iPhone.
 
 ## Qué datos recopilamos
 
@@ -82,7 +82,7 @@ Effective October 23, 2026.
 
 ## Who we are
 
-ChessAI (package `com.arcaelas.chess`) is a chess game for mobile devices developed by Arcaelas. This policy describes how data is handled when you play on your device, on Android and on iPhone.
+ChessAI (package `com.arcaelas.chess`) is a chess game for mobile devices developed by Arcaelas Insiders, LLC. This policy describes how data is handled when you play on your device, on Android and on iPhone.
 
 ## What data we collect
 
