@@ -173,3 +173,5 @@ If we update this policy, we'll publish the new version at this same URL and upd
 ## Contact
 
 ARCAELAS INSIDERS, LLC. For any question about this policy: [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com).
+
+© 2026 Arcaelas Insiders, LLC

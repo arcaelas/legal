@@ -12,7 +12,7 @@ Vigente desde el 22 de octubre de 2026.
 
 ## Quiénes somos
 
-Dominó: El Venezolano (paquete `com.arcaelas.domino`) es un juego de dominó para móviles desarrollado por Arcaelas. Esta política describe cómo se manejan los datos cuando juegas en tu dispositivo.
+Dominó: El Venezolano (paquete `com.arcaelas.domino`) es un juego de dominó para móviles desarrollado por Arcaelas Insiders, LLC. Esta política describe cómo se manejan los datos cuando juegas en tu dispositivo.
 
 ## Qué datos recopilamos
 
@@ -94,7 +94,7 @@ Effective October 22, 2026.
 
 ## Who we are
 
-Dominó: El Venezolano (package `com.arcaelas.domino`) is a dominoes game for mobile devices developed by Arcaelas. This policy describes how data is handled when you play on your device.
+Dominó: El Venezolano (package `com.arcaelas.domino`) is a dominoes game for mobile devices developed by Arcaelas Insiders, LLC. This policy describes how data is handled when you play on your device.
 
 ## What data we collect
 

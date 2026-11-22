@@ -47,3 +47,5 @@ If you signed in, your achievements and scores are stored in Google Play Games (
 ## Need help?
 
 Email us at [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
+
+© 2026 Arcaelas Insiders, LLC

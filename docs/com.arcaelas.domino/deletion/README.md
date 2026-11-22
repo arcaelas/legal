@@ -43,3 +43,5 @@ On Android, the technical diagnostic data of the QR code reader is handled by Go
 ## Need help?
 
 Email us at [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
+
+© 2026 Arcaelas Insiders, LLC

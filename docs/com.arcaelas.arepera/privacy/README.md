@@ -12,7 +12,7 @@ Vigente desde el 21 de noviembre de 2026.
 
 ## Quiénes somos
 
-La Arepera (paquete `com.arcaelas.arepera`) es un juego móvil gratuito desarrollado por Arcaelas. Esta política describe cómo se manejan los datos cuando juegas en tu dispositivo.
+La Arepera (paquete `com.arcaelas.arepera`) es un juego móvil gratuito desarrollado por Arcaelas Insiders, LLC. Esta política describe cómo se manejan los datos cuando juegas en tu dispositivo.
 
 ## Qué datos recopilamos
 
@@ -76,7 +76,7 @@ Effective November 21, 2026.
 
 ## Who we are
 
-La Arepera (package `com.arcaelas.arepera`) is a free mobile game developed by Arcaelas. This policy describes how data is handled when you play on your device.
+La Arepera (package `com.arcaelas.arepera`) is a free mobile game developed by Arcaelas Insiders, LLC. This policy describes how data is handled when you play on your device.
 
 ## What data we collect
 

@@ -115,3 +115,5 @@ Clear the app data from the system settings or uninstall the app. More details i
 ## Contact
 
 For any other question: [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
+
+© 2026 Arcaelas Insiders, LLC

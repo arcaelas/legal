@@ -87,3 +87,5 @@ Because the game behaves like a real table: following the rules is up to the pla
 ### Do I need internet?
 
 No. Against the computer you play offline, and over the network you only need a shared Wi-Fi.
+
+© 2026 Arcaelas Insiders, LLC

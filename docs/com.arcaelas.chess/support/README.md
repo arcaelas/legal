@@ -97,3 +97,5 @@ On your phone. There is no account and no server: if you uninstall the app or cl
 ### How do I delete my data?
 
 In **Settings → Data → Delete all data**. More details on the [data deletion page](../deletion/).
+
+© 2026 Arcaelas Insiders, LLC

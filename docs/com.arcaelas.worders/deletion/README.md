@@ -43,3 +43,5 @@ Meaning lookups are received by the Wikimedia Foundation under its [privacy poli
 ## Need help?
 
 Email us at [miguel.guevara@arcaelas.com](mailto:miguel.guevara@arcaelas.com) · [arko.arcaelas.com](https://arko.arcaelas.com/).
+
+© 2026 Arcaelas Insiders, LLC
