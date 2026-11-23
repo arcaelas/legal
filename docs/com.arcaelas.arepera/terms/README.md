@@ -6,7 +6,7 @@ title: Términos y Condiciones — La Arepera
 
 # Términos y Condiciones — La Arepera
 
-Vigentes desde el 21 de noviembre de 2026.
+Vigentes desde el 23 de noviembre de 2026.
 
 Estos términos regulan el uso de La Arepera (paquete `com.arcaelas.arepera`), un juego gratuito de Arcaelas Insiders, LLC. Al descargar, instalar o usar el juego, aceptas estos términos. Si no estás de acuerdo, no lo uses.
 
@@ -26,7 +26,7 @@ No puedes:
 
 La Arepera es un juego de gestión en el que cosechas, preparas y vendes arepas, construyes tu local y contratas empleados. Los billetes, los empleados, sus niveles, las mejoras y cualquier otro elemento del juego son ficticios: no tienen valor en dinero, no se pueden canjear por dinero ni por bienes reales y solo sirven dentro del juego. Los nombres y personajes del juego son ficticios.
 
-El juego es gratuito: se descarga y se juega completo sin pagar. No tiene compras dentro de la app. En Android ofrece videos publicitarios opcionales, servidos por Google AdMob: solo se muestran cuando tú lo pides y, si ves uno hasta el final, recibes una cantidad de diamantes del juego definida al azar. Los diamantes son tan ficticios como los demás elementos del juego. Si cierras el video antes de terminar o no hay un anuncio disponible, no hay recompensa.
+El juego es gratuito: se descarga y se juega completo sin pagar. No tiene compras dentro de la app. Ofrece videos publicitarios opcionales, servidos por Google AdMob: solo se muestran cuando tú lo pides, con un máximo por día, y, si ves uno hasta el final, recibes una cantidad de diamantes del juego definida al azar. Los diamantes son tan ficticios como los demás elementos del juego. Si cierras el video antes de terminar o no hay un anuncio disponible, no hay recompensa.
 
 ## Servicios de juego
 
@@ -72,7 +72,7 @@ Para cualquier pregunta sobre estos términos: [miguel.guevara@arcaelas.com](mai
 
 # Terms and Conditions — La Arepera
 
-Effective November 21, 2026.
+Effective November 23, 2026.
 
 These terms govern the use of La Arepera (package `com.arcaelas.arepera`), a free game by Arcaelas Insiders, LLC. By downloading, installing or using the game, you accept these terms. If you do not agree, do not use it.
 
@@ -92,7 +92,7 @@ You may not:
 
 La Arepera is a management game in which you harvest, prepare and sell arepas, build your shop and hire employees. Cash, employees, their levels, upgrades and any other game item are fictional: they have no monetary value, cannot be exchanged for money or real goods and are only usable inside the game. The game's names and characters are fictional.
 
-The game is free: it is downloaded and fully played without paying. It has no in-app purchases. On Android it offers optional video ads, served by Google AdMob: they are shown only when you ask for one and, if you watch it to the end, you receive a randomly drawn amount of in-game diamonds. Diamonds are as fictional as every other game item. If you close the video before it ends or no ad is available, there is no reward.
+The game is free: it is downloaded and fully played without paying. It has no in-app purchases. It offers optional video ads, served by Google AdMob: they are shown only when you ask for one, up to a daily maximum, and, if you watch it to the end, you receive a randomly drawn amount of in-game diamonds. Diamonds are as fictional as every other game item. If you close the video before it ends or no ad is available, there is no reward.
 
 ## Game services
 
